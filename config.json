@@ -1,0 +1,16 @@
+{
+    "token": "TOKEN-BOT",
+    "mongodb": "Mongo-URL",
+
+        "servers": [
+            "1058712013402017853",
+            ""
+        ],
+
+        "roleName": "RGB",
+        "colors": 12,
+        "speed": 60000,
+        "logging": true,
+        "voiceCN": "1083553731167133786"
+    
+}   
